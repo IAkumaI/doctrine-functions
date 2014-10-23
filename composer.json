@@ -20,10 +20,9 @@
     },
     "autoload": {
         "psr-0": {
-            "IAkumaI\\DQL": ""
+            "IAkumaI\\DQL": "src/"
         }
     },
-    "target-dir": "IAkumaI/DQL",
     "extra": {
         "branch-alias": {
             "dev-master": "0.1-dev"
