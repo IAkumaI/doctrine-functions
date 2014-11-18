@@ -15,6 +15,7 @@ This package contains some doctrine functions
 ### Math functions
 
 * `RAND()` - [documentation](http://dev.mysql.com/doc/refman/5.0/en/mathematical-functions.html#function_rand). Remember, you can not use parameters in this function.
+* `RANDP(12345)` - [documentation](http://dev.mysql.com/doc/refman/5.0/en/mathematical-functions.html#function_rand). This is still RAND() MySQL function, but you must use a number parameter in it.
 
 
 Installation
