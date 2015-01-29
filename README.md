@@ -11,6 +11,7 @@ This package contains some doctrine functions
 ### DateTime functions
 
 * `DATE_FORMAT(field, '%format%')` - [documentation](http://dev.mysql.com/doc/refman/5.0/en/date-and-time-functions.html#function_date-format)
+* `DATE(field)` - [documentation](http://dev.mysql.com/doc/refman/5.0/en/date-and-time-functions.html#function_date)
 
 ### Math functions
 
